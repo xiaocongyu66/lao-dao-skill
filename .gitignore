@@ -1,0 +1,7 @@
+.env
+*.key
+raw/
+source-archives/
+*.tmp
+
+# Legacy local transcript with absolute image paths

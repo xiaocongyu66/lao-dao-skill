@@ -1,0 +1,64 @@
+{
+  "slug": "lao-dao",
+  "name": "老刀",
+  "fullName": "天网软件工作室-老刀",
+  "username": "1556666987",
+  "uuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+  "version": "1.1.0",
+  "createdAt": "2026-06-20T12:10:00+08:00",
+  "updatedAt": "2026-06-21T02:45:00+08:00",
+  "source": {
+    "archive": "./source-archives/amlc1bekzi (not included)",
+    "room": "总部",
+    "roomId": "amlc1bekzi",
+    "dateRange": "2026-06-12 ~ 2026-06-20",
+    "relatedMessages": 1848,
+    "ownMessages": 329,
+    "note": "老刀相关消息（本人+提及+回复+引用+恶搞号+凌风）",
+    "visionArchive": "./source-archives/ang2f0u6je (not included)",
+    "visionRoom": "i刀TV❤️",
+    "visionRoomId": "ang2f0u6je",
+    "visionImages": 448,
+    "visionTranscribed": 448,
+    "visionNote": "i刀TV 是黑料/截图档案；448 张图片已用多模态识图转录，老刀原话高权重，侧面评价需降权。",
+    "corrections": [
+      "社区总群不是老刀的群，基本跟老刀无关；老刀相关的是刀群/QQ 私域。",
+      "ls 免费 GPT 渠道不是老刀直接所有；老刀是接入/转接 ls 渠道的一方。",
+      "公开 key 早期不强制站长引流；私 key 阶段才更明确需要社区登录/KPI/引流。",
+      "老刀 modified newapi 可拦截 ls/社区广告，并把流量导向自己的 QQ 群。",
+      "丛雨材料权重不能设为 100%；需综合多说话者和老刀本人原话。"
+    ],
+    "openSourceNote": "Portable release: raw source archives/images are not included; all bundled knowledge files use relative paths and can be read directly after download."
+  },
+  "identity": {
+    "occupation": "AI API 中转站站长（天网软件工作室）",
+    "region": "东北",
+    "ageHint": "三十来年",
+    "isBoss": true,
+    "goal": "用户量超越 lwlw 成为社区第一中转站"
+  },
+  "nicknames": [
+    "老刀",
+    "小刀",
+    "刀哥",
+    "刀狗",
+    "刀"
+  ],
+  "associates": {
+    "凌风": "朋友，也开中转站 dcapi.gbox.top，会替老刀说话、劝架",
+    "ls大佬": "上游提供 KEY 的关键人物",
+    "lwlw": "老刀要超越的标杆中转站"
+  },
+  "files": [
+    "SKILL.md",
+    "persona.md",
+    "memories.md",
+    "meta.json",
+    "knowledge/README.md",
+    "knowledge/social/laodao-summary.md",
+    "knowledge/social/laodao-own-messages.txt",
+    "knowledge/social/laodao-related-messages.txt",
+    "knowledge/social/idao-tv-vision-transcripts.md",
+    "knowledge/social/idao-tv-vision-findings.md"
+  ]
+}
