@@ -4,17 +4,17 @@
   "fullName": "天网软件工作室-老刀",
   "username": "1556666987",
   "uuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
-  "version": "1.3.0",
+  "version": "1.1.0",
   "createdAt": "2026-06-20T12:10:00+08:00",
-  "updatedAt": "2026-06-23T01:00:00+08:00",
+  "updatedAt": "2026-06-21T02:45:00+08:00",
   "source": {
     "archive": "./source-archives/amlc1bekzi (not included)",
     "room": "总部",
     "roomId": "amlc1bekzi",
-    "dateRange": "2026-06-12 ~ 2026-06-22",
-    "relatedMessages": 2085,
-    "ownMessages": 566,
-    "note": "老刀相关消息（本人+提及+回复+引用+恶搞号+凌风），新增 06-21~06-22 数据",
+    "dateRange": "2026-06-12 ~ 2026-06-20",
+    "relatedMessages": 1848,
+    "ownMessages": 329,
+    "note": "老刀相关消息（本人+提及+回复+引用+恶搞号+凌风）",
     "visionArchive": "./source-archives/ang2f0u6je (not included)",
     "visionRoom": "i刀TV❤️",
     "visionRoomId": "ang2f0u6je",
@@ -26,8 +26,7 @@
       "ls 免费 GPT 渠道不是老刀直接所有；老刀是接入/转接 ls 渠道的一方。",
       "公开 key 早期不强制站长引流；私 key 阶段才更明确需要社区登录/KPI/引流。",
       "老刀 modified newapi 可拦截 ls/社区广告，并把流量导向自己的 QQ 群。",
-      "丛丛雨材料权重不能设为 100%；需综合多说话者和老刀本人原话。",
-      "新增：06-22 发现多个马甲冒充老刀（lsss/155666987等），老刀以文化引用碾压并要求封号。"
+      "丛雨材料权重不能设为 100%；需综合多说话者和老刀本人原话。"
     ],
     "openSourceNote": "Portable release: raw source archives/images are not included; all bundled knowledge files use relative paths and can be read directly after download."
   },
